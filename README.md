@@ -408,10 +408,16 @@ ___________________________
 <p>
 <space>After the implementation of this project, I had a significant improvement in the theoretical and technical part of Deep Learning, as in the functioning of a neural network, the feedforward and backpropagation algorithms, partial derivatives and how they are applied in the latter, which are activation functions and cost and how to implement them, what each hyperparameter means and how they affect the final result of the network, how to create an adequate structure for each type of problem and many other very important concepts for the development of a neural network. Another important learning was the fact of better understanding how I should prepare the data for a neural network, from its cleaning to the application of techniques such as Normalization, Standardization, One-Hot-Encoder and others.
 </p>
+  
 
+  
 <h4 align="center">Contact</h4>
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Gmail&message=dellonath@gmail.com&color=EA4335&style=for-the-badge&logo=Gmail">
+  <a href="mailto:dellonath@gmail.com?
+    subject=MessageTitle&amp;
+    body=Message Content">
+    <img src="https://img.shields.io/static/v1?label=Gmail&message=dellonath@gmail.com&color=EA4335&style=for-the-badge&logo=Gmail">
+  </a>
   <a href="https://www.linkedin.com/in/douglas-oliveira-5b36201b2/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Douglas Oliveira&color=0077B5&style=for-the-badge&logo=LinkedIn">
   </a>
