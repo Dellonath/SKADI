@@ -84,7 +84,7 @@ class Model():
                 new_layer (Layer instance): must be a instance of skadi.layers.Layer() or skadi.layers.Dropout()
         
         predict(self, x):
-            Prediction gived x data.
+            Prediction when gived x data.
 
             Parameters: 
                 x: data values, must be same type and shape that train data
@@ -103,15 +103,15 @@ class Model():
                 x: data
                 y: data targets
                 epochs: number of epochs
-                validation_rate: split the data in train and validation
-                verbose: verbose progress, for each verbose will have a summary
+                validation_rate: splits the data in train and validation, is not possible train without samples for model validation 
+                verbose: verbose progress, for each verbose time will have a train summary
                 loss_stop: stop the train if the loss is less than loss_stop[0] by loss_stop[1] times
 
         save(self, patch):
             Save the Model in a pickle archive.
 
             Parameters:
-                patch: str that describe the directory.
+                patch: str that describe the directory
 
         load(patch):
             Load the Model in a pickle archive.
