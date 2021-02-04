@@ -395,4 +395,27 @@ Out:
 ___________________________
 
 <a name="Author"/>
+
 <h3 align="center">Author</h3>
+
+<p align="center">
+  <img width = 150 src="https://user-images.githubusercontent.com/56659549/106941005-03b8c100-6701-11eb-9d77-0a4c296bd615.png">
+</p>
+
+<p>
+  I am a Computer Science student at the Universidade Federal de Itajubá, with a focus on statistics, data science, data analysis, machine learning, deep learning among others. I made this project as a personal challenge with the intention of applying several concepts that I learned in the excellent course <a href = "https://www.udemy.com/course/redes-neurais/">Manual Prático do Deep Learning - Redes Neurais Profundas</a> offered by <a href="https://www.linkedin.com/in/arnaldo-gualberto/">Arnaldo Gualberto</a>, in addition to the objective of incorporating this work into my portfolio. 
+</p>
+<p>
+<space>After the implementation of this project, I had a significant improvement in the theoretical and technical part of Deep Learning, as in the functioning of a neural network, the feedforward and backpropagation algorithms, partial derivatives and how they are applied in the latter, which are activation functions and cost and how to implement them, what each hyperparameter means and how they affect the final result of the network, how to create an adequate structure for each type of problem and many other very important concepts for the development of a neural network. Another important learning was the fact of better understanding how I should prepare the data for a neural network, from its cleaning to the application of techniques such as Normalization, Standardization, One-Hot-Encoder and others.
+</p>
+
+<h4 align="center">Contact</h4>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Gmail&message=dellonath@gmail.com&color=EA4335&style=for-the-badge&logo=Gmail">
+  <a href="https://www.linkedin.com/in/douglas-oliveira-5b36201b2/">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Douglas Oliveira&color=0077B5&style=for-the-badge&logo=LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/dellonath/">
+    <img src="https://img.shields.io/static/v1?label=Facebook&message=Douglas Oliveira&color=1877F2&style=for-the-badge&logo=Facebook">
+  </a>
+</p>
