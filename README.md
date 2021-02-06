@@ -419,9 +419,9 @@ ___________________________
     <img src="https://img.shields.io/static/v1?label=Gmail&message=dellonath@gmail.com&color=EA4335&style=for-the-badge&logo=Gmail">
   </a>
   <a href="https://www.linkedin.com/in/douglas-oliveira-5b36201b2/">
-    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Douglas Oliveira&color=0077B5&style=for-the-badge&logo=LinkedIn">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Douglas%20Oliveira&color=0077B5&style=for-the-badge&logo=LinkedIn">
   </a>
   <a href="https://www.facebook.com/dellonath/">
-    <img src="https://img.shields.io/static/v1?label=Facebook&message=Douglas Oliveira&color=1877F2&style=for-the-badge&logo=Facebook">
+    <img src="https://img.shields.io/static/v1?label=Facebook&message=Douglas%20Oliveira&color=1877F2&style=for-the-badge&logo=Facebook">
   </a>
 </p>
