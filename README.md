@@ -75,7 +75,7 @@ ___________________________
   <a href="https://www.python.org/">
    <img src="https://img.shields.io/static/v1?label=Python&message=Language&color=107C10&style=for-the-badge&logo=Python"/>
   </a>
-  <a href="https://www.python.org/">
+  <a href="https://numpy.org/">
    <img src="https://img.shields.io/static/v1?label=Numpy&message=Library&color=107C10&style=for-the-badge&logo=Numpy"/>
   </a>
 </p>
