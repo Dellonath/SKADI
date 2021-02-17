@@ -133,7 +133,18 @@ ___________________________
 <h3 align="center">To Use</h3>
 
 <p align="left">
-To use this framework in your work, first you must install the python language and numpy library in your computer, second you must download the skadi folder as it is in the repository and paste it next to the file.py where you want import and use. See a example below.
+  To use this framework in your work, firstly you must install the python language, the git and numpy library in your computer, do the both last with this command lines
+  
+    apt install git
+    pip install numpy
+    
+  Now go to your project folder and there execute the follow command line
+     
+    git clone https://github.com/Dellonath/SKADI.git
+   
+  Copy the SKADI/skadi folder beside your file.py where you will import the SKADI, like below
+  
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/56659549/106929595-512e3180-66f3-11eb-96e6-deef5d070770.png">
